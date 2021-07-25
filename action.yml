@@ -1,0 +1,5 @@
+name: 'Perform yarn actions'
+description: 'splitting dependencies and performaing yarn list'
+runs:
+  using: 'node12'
+  main: 'index.js'
